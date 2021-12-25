@@ -111,7 +111,7 @@ body {
 }
  
 .etherium-img-text-link {
-    color: hsl(191, 50%, 36%);
+    color:  hsl(178, 100%, 50%);
     font-weight: bolder;
     text-decoration: none;
 }
@@ -140,6 +140,6 @@ body {
     
 }
 
-.card-text-header-link:hover,.clock-img-text-link:hover,.etherium-img-text-link:hover  {
+.card-text-header-link:hover,.clock-img-text-link:hover {
     color:  hsl(178, 100%, 50%)
 }
