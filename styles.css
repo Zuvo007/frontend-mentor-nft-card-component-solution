@@ -8,6 +8,11 @@ body {
     font-size: 18px;
     font-family: 'Poppins', sans-serif;
 }
+.heading {
+   color: hsl(184, 9%, 62%);
+   text-align: center;
+    
+}
 
 .card-container {
     height: 100vh;
